@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Employee</string>
+    <string name="name_of_employee">the name goes here</string>
+    <string name="description">The description goes here!</string>
+</resources>
